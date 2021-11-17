@@ -48564,7 +48564,7 @@ F.Ef.prototype={
 Y(a,b){var s,r=null,q=t.w,p=T.hy(this.d,b.ad(q).f.a.b,b.ad(q).f.a.a),o=b.ad(q).f
 q=b.ad(q).f
 s=t.E
-return new M.ri(T.a0i(T.rG(C.bZ,H.a([p,T.Qh(r,K.a1F(M.oX(r,T.rG(C.bZ,H.a([T.Rk(H.a([T.hy(r,r,20),T.a4q(H.a([C.Es,C.HU,T.Rk(C.zE,C.cp,C.cq),T.hy(T.a1E(r,r,C.cI,!0,r,Q.nm(H.a([Q.nm(r,r,"Student 4 roku na Politechnice lubelskiej, pisze g\u0142\xf3wnie we "),Q.nm(r,A.nn(r,r,C.nj,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Flutterze, "),Q.nm(r,r,"orientuj\u0119 si\u0119 w Javie, HTMLu, CSSach. Opr\xf3cz tego ogarniam UI/UX oraz grafike.")],t.nO),r,r),C.R,r,r,1,C.b0),r,275),C.Er,T.hy(C.HT,r,275)],s),C.cW,C.cp)],s),C.cp,C.cq),M.oX(C.fV,new D.AP(M.oX(r,T.a4q(H.a([new U.Bo(new F.Xh(),r,r,C.G,r,!1,L.agf("Projekty",A.nn(r,r,C.j,r,r,r,r,r,r,r,r,17,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r),T.hy(r,20,r),T.Rk(H.a([T.OU(D.Mw(r,T.hy(U.a4W("assets/git.png",r),25,25),C.aU,!1,r,r,r,r,r,r,r,r,r,r,new F.Xi(),r,r,r,r,r),C.dU,r,r,!0),T.hy(r,r,10),T.OU(D.Mw(r,new L.pD(C.ys,25,C.j,r),C.aU,!1,r,r,r,r,r,r,r,r,r,r,new F.Xj(),r,r,r,r,r),C.dU,r,r,!0)],s),C.f4,C.cq)],s),C.eq,C.f4),r,new S.f7(C.nj,r,r,r,r,r,C.a2),300,r,r,255),new D.KB(C.hR,C.hQ,new D.xf(-0.17453292519943295)),0,r),r,r,r,r,r,r)],s),C.fr),r,C.ua,r,r,r,r),C.un),300,r,q.a.a*0.35,r,o.a.b*0.4,550)],s),C.cE),r,r),r)}}
+return new M.ri(T.a0i(T.rG(C.bZ,H.a([p,T.Qh(r,K.a1F(M.oX(r,T.rG(C.bZ,H.a([T.Rk(H.a([T.hy(r,r,20),T.a4q(H.a([C.Es,C.HT,T.Rk(C.zE,C.cp,C.cq),T.hy(T.a1E(r,r,C.cI,!0,r,Q.nm(H.a([Q.nm(r,r,"Student 4 roku informatyki na Politechnice Lubelskiej, pisz\u0119 g\u0142\xf3wnie we "),Q.nm(r,A.nn(r,r,C.nj,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Flutterze, "),Q.nm(r,r,"orientuj\u0119 si\u0119 w Javie, HTMLu, CSSach. Opr\xf3cz tego ogarniam UI/UX oraz grafik\u0119.")],t.nO),r,r),C.R,r,r,1,C.b0),r,275),C.Er,T.hy(C.HU,r,275)],s),C.cW,C.cp)],s),C.cp,C.cq),M.oX(C.fV,new D.AP(M.oX(r,T.a4q(H.a([new U.Bo(new F.Xh(),r,r,C.G,r,!1,L.agf("Projekty",A.nn(r,r,C.j,r,r,r,r,r,r,r,r,17,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r),T.hy(r,20,r),T.Rk(H.a([T.OU(D.Mw(r,T.hy(U.a4W("assets/git.png",r),25,25),C.aU,!1,r,r,r,r,r,r,r,r,r,r,new F.Xi(),r,r,r,r,r),C.dU,r,r,!0),T.hy(r,r,10),T.OU(D.Mw(r,new L.pD(C.ys,25,C.j,r),C.aU,!1,r,r,r,r,r,r,r,r,r,r,new F.Xj(),r,r,r,r,r),C.dU,r,r,!0)],s),C.f4,C.cq)],s),C.eq,C.f4),r,new S.f7(C.nj,r,r,r,r,r,C.a2),300,r,r,255),new D.KB(C.hR,C.hQ,new D.xf(-0.17453292519943295)),0,r),r,r,r,r,r,r)],s),C.fr),r,C.ua,r,r,r,r),C.un),300,r,q.a.a*0.35,r,o.a.b*0.4,550)],s),C.cE),r,r),r)}}
 F.Xh.prototype={
 $0(){},
 $S:0}
@@ -52033,10 +52033,10 @@ C.Gn=new A.n(!1,null,null,null,null,null,14,C.aq,null,null,null,C.u,null,null,nu
 C.F5=new A.n(!1,null,null,null,null,null,10,C.z,null,1.5,null,C.u,null,null,null,null,null,null,null,null,null,"englishLike overline 2014",null,null,null)
 C.HQ=new R.cH(C.FT,C.FU,C.FV,C.FW,C.FX,C.FM,C.FF,C.Gx,C.Gy,C.Gz,C.Fl,C.Gn,C.F5)
 C.tr=new U.Bt("TextWidthBasis.longestLine")
-C.HC=new A.n(!0,null,null,null,null,null,9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.HT=new L.j2("Dodatkowo wzorowo pod\u0142\u0105czam drukark\u0119, restartuj\u0119 router,\na tak\u017ce flushuje DNSy",C.HC,null,null,null)
-C.HD=new A.n(!0,null,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.HU=new L.j2("No dzie\u0144 dobry, jestem",C.HD,null,null,null)
+C.HC=new A.n(!0,null,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.HT=new L.j2("No dzie\u0144 dobry, jestem",C.HC,null,null,null)
+C.HD=new A.n(!0,null,null,null,null,null,9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.HU=new L.j2("Dodatkowo wzorowo pod\u0142\u0105czam drukark\u0119, restartuj\u0119 router,\na tak\u017ce flushuje DNSy. Jestem maestro instalowanie Adobe Readera.",C.HD,null,null,null)
 C.HV=new M.t0(null)
 C.cJ=new P.np(0,"TileMode.clamp")
 C.ts=new P.np(1,"TileMode.repeated")
