@@ -33056,7 +33056,7 @@ m=q.qn("AccelApp","Aplikacja z praktyk studenckich, pierwsza wi\u0119ksza aplika
 n=U.iW("assets/page.png",p,p,450,!1,450)
 s=C.Dg.i(0,900)
 s.toString
-s=q.qn("Strona na kt\xf3rej jeste\u015b","Naisana we flutterze, skomilowana do JavaScripta.","Postawiona na GitHub Pages (jak pewnie wida\u0107 po URL)","",n,"","https://github.com/itskck/itskck.github.io",s)
+s=q.qn("Strona na kt\xf3rej jeste\u015b","Napisana we flutterze, skompilowana do JavaScripta. ","Postawiona na GitHub Pages (jak pewnie wida\u0107 po URL) i zrobiona responsywnie","",n,"","https://github.com/itskck/itskck.github.io",s)
 n=U.iW("assets/enigma.png",p,p,450,!1,450)
 r=C.Dd.i(0,800)
 r.toString
