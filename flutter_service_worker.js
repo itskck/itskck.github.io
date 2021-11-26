@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1ad52b6fbd564c0e689f41b4904d2852",
+  "assets/AssetManifest.json": "c0aa6c8b22a23d97c4f23910cedb9c56",
 "assets/assets/2.png": "b68f00c41a8ebeff28b6310960a315a9",
-"assets/assets/accl.png": "e33be85fabfc8574abd3993c547ff0dc",
+"assets/assets/accl.png": "dc4629a2b872ba7a63817ffa7400edc3",
 "assets/assets/desk.jpg": "12ef80e4dd3da83d68941f89a532a6e0",
 "assets/assets/enigma.png": "b36cfb959f0ac2b8c1b1ee256afb5430",
 "assets/assets/git.png": "472739dfb5857b1f659f4c4c6b4568d0",
@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/assets/li.png": "1b18d461ce75c75fdb4d7b6ec08b3e65",
 "assets/assets/logo.png": "9a3d53ee9abd1191c2c855bde4c23252",
 "assets/assets/page.png": "340038218dd213c88c0025112f72223a",
+"assets/assets/pizza.png": "6f8e2838e9c998f9c079e3b42627a209",
 "assets/assets/skladapka.png": "356ac33a2869b455b8059257d66df31d",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -23,9 +24,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8c60062dcf35733d6324d9a328acebda",
-"/": "8c60062dcf35733d6324d9a328acebda",
-"main.dart.js": "082983350b434e3fa0c761d9c5f9ca5f",
+"index.html": "0b4279987aa22203184a6d4de54d99a8",
+"/": "0b4279987aa22203184a6d4de54d99a8",
+"main.dart.js": "4e5256566bb8f9969b3852a50eb04e27",
 "manifest.json": "80489046841edea8704db3608e00f069",
 "version.json": "310857d91cb8a8ec3665bf739c54a97e"
 };
