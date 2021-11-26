@@ -1,3 +1,3 @@
-# itskck.github.io\
+# itskck.github.io
 
 Personal portfolio page.
